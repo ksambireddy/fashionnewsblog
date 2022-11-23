@@ -18,7 +18,7 @@ Primary Azure Technology : Static Web Apps, App Service
 
 Static Web App URL : https://purple-tree-060b25110.2.azurestaticapps.net/contact.html
 
-App Services URL : 
+App Services URL : https://fashionnewsvlog.azurewebsites.net/
 
 ## My Website Link : https://purple-tree-060b25110.2.azurestaticapps.net/contact.html
 
@@ -34,5 +34,9 @@ App Services URL :
 ## Contact US
 ![Capture4](https://user-images.githubusercontent.com/116787672/203030880-dbd92c34-ce3f-4ecc-829d-66106da89fa5.PNG)
 ![Capture2](https://user-images.githubusercontent.com/116787672/203030905-2694d249-3826-49ab-b512-0674fc542bb0.PNG)
+
+
+## Azure Services Used
+![Capture](https://user-images.githubusercontent.com/116787672/203479675-6e52fef9-09e1-41ee-b1b8-47234ed210a8.JPG)
 
 
